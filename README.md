@@ -1,8 +1,7 @@
 # MERN_PROJECT
 
 I have created SignUp & Login Page using React 
-
-<img width="1470" height="956" alt="Screenshot 2025-08-31 at 12 27 08" src="https://github.com/user-attachments/assets/ea3f8474-e72d-4f8e-8263-1292e0df4f0c" />
-
-<img width="1470" height="956" alt="Screenshot 2025-08-27 at 15 44 45" src="https://github.com/user-attachments/assets/90380709-2818-4563-a9b2-99b2ddc3ec21" />
-
+LOGIN PAGE
+<img width="2922" height="1676" alt="image" src="https://github.com/user-attachments/assets/f75ba50a-989f-4881-b1cb-51997d86d4c0" />
+SIGNUP PAGE
+<img width="2921" height="1664" alt="image" src="https://github.com/user-attachments/assets/36515321-876a-470f-a19e-50f324b1d2c6" />
