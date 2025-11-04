@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Square to Circle on Click</title>
+  <style>
+    body {
+      height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      background: #fafafa;
+    }
+
+    .box {
+      width: 150px;
+      height: 150px;
+      background: teal;
+      border-radius: 0;
+      transition: border-radius 0.4s ease;
+      cursor: pointer;
+    }
+
+    .box.circle {
+      border-radius: 50%;
+    }
+  </style>
+</head>
+<body>
+  <div class="box" id="box"></div>
+
+  <script>
+    const box = document.getElementById('box');
+    box.addEventListener('click', () => {
+      box.classList.toggle('circle');
+    });
+  </script>
+</body>
+</html>
